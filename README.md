@@ -30,7 +30,7 @@
 
   <br/>
 
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slient3fordextor&amp;theme=tokyonight&amp;animation=rgb-soft" alt="Dexter 的贡献活动概览"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slient3fordextor&amp;theme=tokyonight&amp;animation=draw" alt="Dexter 的 GitHub 贡献方格与活动概览"/>
 
   <br/>
 
