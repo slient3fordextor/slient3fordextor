@@ -3,9 +3,9 @@
   <img width="100%" src="./assets/profile-header.svg" alt="Dexter — AI Full-Stack Engineer，中英文打字介绍"/>
 
   <p>
-    <code> 📍Born 2004.12.08 · Shanxi, China.</code> <br>
-    <code> 💻Now Base in BeiJing.</code><br>
-    <code> 💬Welcome to Share.</code>
+    <code> 📍 Born 2004.12.08 · Shanxi, China.</code> <br>
+    <code> 💻 Now Base in BeiJing.</code><br>
+    <code> 💬 Welcome to Share.</code>
   </p>
 
 </div>
