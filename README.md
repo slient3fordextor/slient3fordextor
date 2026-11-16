@@ -15,13 +15,13 @@
 - 📍 来自山西，目前在北京。
 - 💬 欢迎交流后端开发、前端应用、AI 应用与容器化部署。
 
-## 技术栈
+
 
 <div align="center">
 
   <img src="https://skillicons.dev/icons?i=java,go,python,ts,docker&amp;perline=5" alt="Java, Go, Python, TypeScript, Docker"/>
 
-  <br/><br/>
+  <br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
