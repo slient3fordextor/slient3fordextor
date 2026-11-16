@@ -28,9 +28,14 @@
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slient3fordextor&amp;theme=tokyonight&amp;animation=rgb-soft" alt="Dexter 的仓库语言分布"/>
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slient3fordextor&amp;theme=tokyonight&amp;animation=rgb-soft" alt="Dexter 的提交语言分布"/>
 
-  <br/>
+</div>
 
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slient3fordextor&amp;theme=tokyonight&amp;animation=draw" alt="Dexter 的 GitHub 贡献方格与活动概览"/>
+## 代码贡献
+
+<div align="center">
+
+  <!-- 对应 GitHub 主页的年度贡献方格，并由服务自动更新。 -->
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slient3fordextor&amp;theme=tokyonight&amp;animation=draw" alt="Dexter 的 GitHub 年度贡献方格与活动概览"/>
 
   <br/>
 
