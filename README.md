@@ -3,20 +3,12 @@
   <img width="100%" src="./assets/profile-header.svg" alt="Dexter — AI Full-Stack Engineer，中英文打字介绍"/>
 
   <p>
-    <code> Born 2004.12.08 · Shanxi, China.</code> <br>
-    <code> Now Base in BeiJing.</code>
+    <code> 📍Born 2004.12.08 · Shanxi, China.</code> <br>
+    <code> 💻Now Base in BeiJing.</code><br>
+    <code> 💬Welcome to Share.</code>
   </p>
 
 </div>
-
-## 关于我
-
-- 💻 AI 全栈工程师，主要技术栈是 **Java、Go、Python、TypeScript、Docker**。
-- 📍 来自山西，目前在北京。
-- 💬 欢迎交流后端开发、前端应用、AI 应用与容器化部署。
-
-
-
 <div align="center">
 
   <img src="https://skillicons.dev/icons?i=java,go,python,ts,docker&amp;perline=5" alt="Java, Go, Python, TypeScript, Docker"/>
@@ -35,8 +27,13 @@
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=slient3fordextor&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="slient3fordextor 的 GitHub 统计"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slient3fordextor&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="slient3fordextor 的仓库语言分布"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slient3fordextor&amp;theme=tokyonight" alt="Dexter 的 GitHub 统计"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slient3fordextor&amp;theme=tokyonight" alt="Dexter 的仓库语言分布"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slient3fordextor&amp;theme=tokyonight" alt="Dexter 的提交语言分布"/>
+
+  <br/>
+
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slient3fordextor&amp;theme=tokyonight" alt="Dexter 的贡献活动概览"/>
 
   <br/>
 
