@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:06B6D4&amp;height=200&amp;section=header&amp;text=slient3fordextor&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=AI%20Full-Stack%20Engineer&amp;descSize=20&amp;descAlignY=75" alt="slient3fordextor — AI Full-Stack Engineer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:06B6D4&amp;height=200&amp;section=header&amp;text=slient3fordextor&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=AI%20Full-Stack%20Engineer&amp;descSize=20&amp;descAlignY=75" alt="Dexter — AI Full-Stack Engineer"/>
 
-   <img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&size=28&color=0078D7&center=true&pause=100000&width=800&lines=你好，我是+slient3fordextor，一名全栈工程师" alt="个人介绍"/><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Redaction+50&size=28&color=0078D7&center=true&pause=100000&width=800&lines=Hello,+I'm+slient3fordextor.+AI+Full-Stack+Engineer" alt="Hi"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&size=28&color=0078D7&center=true&pause=100000&width=800&lines=你好，我是+Dextor，一名全栈工程师" alt="个人介绍"/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Redaction+50&size=28&color=0078D7&center=true&pause=100000&width=800&lines=Hello,+I'm+Dextor.+AI+Full-Stack+Engineer" alt="Hi"/>
 
   <p>
     <code> Born 2004.12.08 · Shanxi, China.</code> <br>
