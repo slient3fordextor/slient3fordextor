@@ -1,0 +1,11 @@
+Font outlines used in profile-header.svg
+
+Copyright 2018 The MaShanZheng Project Authors (https://github.com/googlefonts/mashanzheng)
+Ma Shan Zheng
+https://openfontlicense.org
+
+---
+
+Copyright 2019 The Redaction Project Authors (https://github.com/jeremymickel/Redaction)
+Redaction 50
+https://openfontlicense.org
