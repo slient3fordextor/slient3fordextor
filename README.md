@@ -1,6 +1,9 @@
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&size=28&color=0078D7&center=true&pause=100000&width=600&lines=你好，我是+Dexter，一名全栈工程师" alt="个人介绍"/><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Redaction+50&size=28&color=0078D7&center=true&pause=100000&width=600&lines=Hello,+I'm+Dexter.+AI+Full-Stack+Engineer" alt="Hi"/>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:06B6D4&amp;height=200&amp;section=header&amp;text=slient3fordextor&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=AI%20Full-Stack%20Engineer&amp;descSize=20&amp;descAlignY=75" alt="slient3fordextor — AI Full-Stack Engineer"/>
+
+   <img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&size=28&color=0078D7&center=true&pause=100000&width=800&lines=你好，我是+slient3fordextor，一名全栈工程师" alt="个人介绍"/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Redaction+50&size=28&color=0078D7&center=true&pause=100000&width=800&lines=Hello,+I'm+slient3fordextor.+AI+Full-Stack+Engineer" alt="Hi"/>
 
   <p>
     <code> Born 2004.12.08 · Shanxi, China.</code> <br>
@@ -8,7 +11,20 @@
   </p>
 
 </div>
-<div align="center"> 
+
+## 关于我
+
+- 💻 AI 全栈工程师，主要技术栈是 **Java、Go、Python、TypeScript、Docker**。
+- 📍 来自山西，目前在北京。
+- 💬 欢迎交流后端开发、前端应用、AI 应用与容器化部署。
+
+## 技术栈
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=java,go,python,ts,docker&amp;perline=5" alt="Java, Go, Python, TypeScript, Docker"/>
+
+  <br/><br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -17,32 +33,31 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
-<table>
-    <tr>
-    <td valign="top" width="50%">
-
-## 关于我
-
-- 🔭 我正在做：**你的当前项目或研究方向**
-- 🌱 我正在学习：**你正在学习的技术**
-- 💬 可以和我聊：**你擅长的主题**
-- 📫 联系我：**邮箱 / 社交链接**
-- 📍 所在地：**城市或时区**
 
 ## GitHub 数据
 
-## 学习与笔记
+<div align="center">
 
-- [技术笔记](https://github.com/YOUR_USERNAME/YOUR_USERNAME/tree/main/notes)
-- [项目复盘](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/PROJECTS.md)
-- [学习路线](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/ROADMAP.md)
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=slient3fordextor&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="slient3fordextor 的 GitHub 统计"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slient3fordextor&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="slient3fordextor 的仓库语言分布"/>
+
+  <br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com/?user=slient3fordextor&amp;theme=tokyonight&amp;hide_border=true" alt="slient3fordextor 的连续贡献统计"/>
+
+</div>
+
+## 学习与记录
+
+- [项目与经历](./PROJECTS.md)
+- [学习路线](./ROADMAP.md)
 
 ## 联系我
 
-- GitHub：[@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email：your.email@example.com
-- Blog：<https://your-blog.example.com>
+- GitHub：[@slient3fordextor](https://github.com/slient3fordextor)
 
-    </td>
-    </tr>
-</table>
+<div align="center">
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:06B6D4&amp;height=100&amp;section=footer" alt="渐变波浪页脚"/>
+
+</div>
